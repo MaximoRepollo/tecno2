@@ -1,4 +1,5 @@
 //TP1 TECNO 2 Integrantes: Maximo Repollo,Justin Perez,Flor Obregon.
+//Link a Youtube: https://youtu.be/lpNQluK8TSI
 import netP5.*;
 import oscP5.*;
 OscP5 osc;
